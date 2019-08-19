@@ -1,0 +1,197 @@
+
+
+.navbar  {
+    display:flex;
+    justify-content: space-between;
+    font-size: 15px;
+    background-color: #c896a5;
+    
+   
+    
+}
+.wistia {
+    height: 50px;
+    width:50px;
+}
+.navbarleft ul{
+    display:flex;
+    justify-content: space-around;
+}
+.navbarright ul{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.navbar li> a {
+    font-family: walsheim;
+    color:white;
+    font-weight: bold;
+    list-style-type: none;
+
+
+}
+.navbar a:hover{
+    color:black;
+}
+.b{
+ background-color:#3ea9f5;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 10px;
+  height: 35px
+  
+}
+
+.navbar div ul{
+    list-style-type: none;
+
+}
+.navbar:hover{
+    background-color: white;
+    color: #000;
+
+}
+
+
+.b:hover {
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+        background-color: #3ea9f5;
+        border-style: solid 1px;
+}
+
+.b1{
+    background-color: white;
+    color:black;
+}
+.b1:hover{
+    background-color: white;
+} 
+.containerA{
+    display: flex;
+    justify-content: space-between;
+    background-color: #c896a5
+    
+}
+.containerA1{
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    
+}
+ .watch{
+     display: flex;
+    align-content: flex-end;
+
+    
+}
+.vs{
+    color:white;
+}
+.p1{
+     font-size: 250%;
+
+
+}
+.wv{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.containerB{
+    display: flex;
+    justify-content: stretch;
+    font-size: 25px; 
+}
+.containerB button{
+display: flex;
+
+}
+
+
+.containerB1{
+    background-color: #fed24a;
+   
+    font-size: 25px;
+  
+
+}
+.containerB2{
+    background-color: #51c29f;
+    
+    font-size: 25px; 
+    
+
+
+}
+.containerB3{
+    background-color:#3ea9f5 ;
+    font-size: 25px; 
+   
+}
+
+
+.sff {
+   background-color: transparent;
+    border-style: solid,2px, white;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+   font-weight: bold;
+   
+}
+.sff:hover{
+    background-color: white;
+}
+.containerC{
+    background-color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: baseline;
+
+    
+}
+.containerC div {
+    height:150px;
+    width: 150px
+}
+.containerD{
+    display: flex;
+    justify-content: space-around;
+}
+.containerD div img{
+    height: 300px;
+    width: 400px
+    
+}
+.footer1{
+    display:flex;
+    justify-content: space-around;
+background-color: #efefef
+}
+.footer2{
+    display:flex;
+    background-color: #2a2d35;
+
+}
+.footer21{
+    color: white;
+
+}
+.vhr{
+    height: 200px;
+    width: 1px;
+}
+    .footer3 {
+        display: flex;
+        justify-content: space-around;
+        color: aliceblue;
+        font-weight: bold
+    }
